@@ -1,0 +1,15 @@
+.MenuButton {
+  /* border: solid black; */
+  margin: auto;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color : white;
+  
+}
+
+.title > a {
+  color: white;
+}

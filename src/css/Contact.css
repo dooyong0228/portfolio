@@ -1,0 +1,32 @@
+.Contact {
+  width: 100vw;
+  height: 500px;
+}
+
+.Contact {
+  margin: auto;
+  margin-top: 40px;
+  height: 450px;
+  width: 1000px;
+  padding-left: 50px;
+  padding-top: 20px;
+  padding-right: 50px;
+  padding-bottom: 20px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.Contact .titleContainer {
+  width: inherit;
+  color: white;
+}
+
+.Contact .Contactmain{
+  color: white;
+  font-size : 20px;
+  margin : auto;
+}
+
+.Contact .Contactmain p {
+  color: white;
+  text-align: center; 
+}
